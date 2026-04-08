@@ -1,3 +1,0 @@
-﻿  DiceRoll.c
-C:\Users\nickd\OneDrive\Desktop\ECE170\GroupProject0.1\GroupProject0.1\DiceRoll.c(28,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
-  GroupProject0.1.vcxproj -> C:\Users\nickd\OneDrive\Desktop\ECE170\GroupProject0.1\ARM64\Debug\GroupProject0.1.exe
