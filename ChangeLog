@@ -2,5 +2,27 @@
 Pushed DABLN 0.2 update
 
 Changes:
-Allows user to input capitol D when inputting more than one die. 
-Previously "2D3" would throw an error. Has been fixed in 0.2
+- Allows user to input capitol D when inputting more than one die. 
+- Previously "2D3" would throw an error. Has been fixed in 0.2
+
+----------------------------------------------------------------------------------------------------------------------
+4/10/2026
+Pushed DABLN 0.3 update
+
+Changes:
+- Added Ability Modifiers and Ability Checks!
+- At the start of the program, the user can input the 6 main ability modifiers (values from -5 to +5 only).
+- The user can now respond to checks from the DM, where their ability modifiers are accounted 
+for and are added/subtracted to the d20. 
+- Retains basic dice rolling aspect
+
+Roadmap going forward:
+0.4:
+Nat1 and Nat20 messages
+
+0.5:
+Temporary modifiers
+
+0.6:
+Saving throws
+
