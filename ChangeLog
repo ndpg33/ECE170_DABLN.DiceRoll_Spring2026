@@ -1,0 +1,6 @@
+4/8/2026
+Pushed DABLN 0.2 update
+
+Changes:
+Allows user to input capitol D when inputting more than one die. 
+Previously "2D3" would throw an error. Has been fixed in 0.2
